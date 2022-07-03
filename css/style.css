@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+ol,ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+h3{
+    color: purple;
+    font-size: 33px;
+    width:400px;
+    height:50px;
+    background: #ddd;
+}
+img{
+    width:270px;
+    height: 400px;
+}
